@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.8QgHF_QxuxhVJzKiD-03NwHaEK?rs=1&pid=ImgDetMain");
+    background-size: cover;
+}
+.box{
+    width: 200px;
+    position: center;
+    border-color: rgb(255, 0, 191);
+    background-color: #973131;
+}
+.gambar{
+    width: 200px;
+}
+.isi{
+    color: #F5E7B2;
+    position: center;
+}
+h3{
+    color: green;
+    background-color: blue;
+}
